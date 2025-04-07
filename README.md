@@ -1,3 +1,5 @@
+[![Docker Image CI](https://github.com/peanutsguy/wazeapi/actions/workflows/main.yaml/badge.svg)](https://github.com/peanutsguy/wazeapi/actions/workflows/main.yaml)
+
 # PyWaze REST API
 
 This project leverages **PyWaze** and **FastAPI** to create a REST API for calculating distance and travel time between locations. The API is designed to be lightweight, efficient, and easy to deploy.
